@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : tests_1.c
- Author      : eintetta
+ Author      : rezelput
  Version     : v1
  Copyright   : Your copyright notice
  Description :  in C, ANSI-style
